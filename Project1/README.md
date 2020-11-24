@@ -13,7 +13,3 @@
 * Of course people not only can store contact but also find, update ,delete and add new contact
 
 * Using MSSQL to store this contact book
-
-
-
-#### Đây là file md của t :v m thích sửa sao là tuỳ m...rùi t sẽ cho nó lên git của m thử nhá 
